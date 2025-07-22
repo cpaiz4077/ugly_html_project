@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: white;
+}
+
+h1 {
+    background: rgb(48, 84, 156);
+    text-align: center;
+    color: rgb(250,200,9);
+}
+
+#starters_image_div {
+    padding: 20px;
+    border: solid rgb(48,84,156) 20px;
+    text-align: center;
+}
